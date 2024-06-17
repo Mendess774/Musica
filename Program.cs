@@ -1,10 +1,10 @@
-Console.ForegroundColor = ConsoleColor.Blue;
 
-Console.Write("\n");
-Console.Write("Imprevistos");
-Console.Write("\n");
 
+Console.Clear();
+Console.ForegroundColor = ConsoleColor.DarkBlue;
+Console.WriteLine("Imprevistos");
 Console.ResetColor();
+
 
 Console.Write("\n");
 
@@ -89,7 +89,7 @@ Pen game get me laid, baby, that's penetrate, oh, baby");
 
 Console.Write("\n");
 
-Console.ForegroundColor = ConsoleColor.Yellow;
+Console.ForegroundColor = ConsoleColor.DarkMagenta;
 
 Console.Write("\n");
 Console.Write("Purple");
@@ -107,7 +107,9 @@ Demônios testam minha fé
 
 Ela quer me hipnotizar, meduza
 Vem me seduzir
-Tudo me acusa
+Tudo me acusa);
+
+Col
 
 Se eu ouço purple ah, ah
 Todas as vezes te olho purple ah, ah
@@ -153,3 +155,8 @@ Ey, ey
 Sei que isso tudo é stress, isso só me entristece
 Ey, ey
 Lembro de você a noite, isso não me aquece");
+
+Console.Write("\n");
+Console.Write("\n");
+
+Console.WriteLine   ("pressione qualquer tecla para finalizar ...");
