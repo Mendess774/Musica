@@ -42,7 +42,7 @@ Play this song for him, tell him: Just listen
 
 Baixe aqui o arquivo .zip . Descompacte na pasta desejada.
 
-[Donwload do arquivo .zip](dist/musica.zip)
+[Donwload do arquivo .zip](dist/musica.zip.zip)
 
 
 ## Agradecimentos 
