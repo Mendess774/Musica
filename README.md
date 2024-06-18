@@ -35,8 +35,7 @@ Play this song for him, tell him: Just listen
 ```
 
 ## screenshot
-
---- Colar aqui screenshot ---
+![Foto de tela do programa](tela.png.jpg)
 
 ## _Donwload_
 
